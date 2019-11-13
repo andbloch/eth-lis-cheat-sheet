@@ -1,7 +1,7 @@
 # eth-lis-cheat-sheet
 Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
-[![Foo](/preview/01.png){:width="50%"}](http://www.google.com/)
+[![Foo](/preview/01.png){:height="50%" width="50%"}](http://www.google.com/)
 
 [![Foo](/preview/02.png){:width="50%"}](http://www.google.com/)
 
