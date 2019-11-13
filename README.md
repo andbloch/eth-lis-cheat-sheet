@@ -8,5 +8,5 @@ Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
 **Download latest PDF:** [Click here](/document.pdf)
 
-[![](/preview/01.png)](document.pdf)
+[![](/preview/01.png)](/document.pdf)
 [![](/preview/02.png)](/document.pdf)
