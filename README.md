@@ -1,6 +1,6 @@
 # eth-lis-cheat-sheet
 
-**Description:** Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
+Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
 **Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct.
 
