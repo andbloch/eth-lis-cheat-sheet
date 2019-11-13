@@ -2,7 +2,7 @@
 
 **Description:** Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
-**Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct. Feel free to report errors, I will try to fix them.
+**Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct.
 
 **Note:** This summary was used for the exam of SS 2016
 
