@@ -6,7 +6,7 @@ Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
 **Note:** This summary was used for the exam of SS 2016
 
-**Download latest PDF:** [Click here](/document.pdf)
+**Download latest PDF:** [Click here](raw/master/document.pdf)
 
-[![](/preview/01.png)](/document.pdf)
-[![](/preview/02.png)](/document.pdf)
+[![](/preview/01.png)](raw/master/document.pdf)
+[![](/preview/02.png)](raw/master/document.pdf)
