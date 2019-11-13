@@ -1,8 +1,12 @@
 # eth-lis-cheat-sheet
-Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
-**Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct. Feel free to report errors, I will try to fix them.
+**Description:** Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
-**Note:** This summary was used for the exam in year 2016
+**Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct.
 
-**Download latest PDF:** [Click here](https://github.com/ndrizza/eth-lis-cheat-sheet/blob/master/document.pdf)
+**Note:** This summary was used for the exam of SS 2016
+
+**Download latest PDF:** [Click here](/document.pdf)
+
+[![](/preview/01.png)](/document.pdf)
+[![](/preview/02.png)](/document.pdf)
