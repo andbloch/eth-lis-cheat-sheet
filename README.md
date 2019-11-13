@@ -1,10 +1,7 @@
 # eth-lis-cheat-sheet
 Cheat sheet for the "Learning and Intelligent Systems" course at ETH Zürich
 
-<a href="/document.pdf" rel="nofollow">
-  <img src="/preview/01.png" style="max-width:50%;">
-  <img src="/preview/02.png" style="max-width:50%;">
-</a>
+[![Foo](/preview/01.png) ![Foo](/preview/02.png)](http://www.google.com/)
 
 **Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct. Feel free to report errors, I will try to fix them.
 
